@@ -1,0 +1,4 @@
+Due to the fact that GD reads black in trails as transparent space, I had to replace black with a dark gray for any trail that contains black in it's respctive flag. Hopefully they still look nice to you guys.
+If anybody has a potential idea or solution, hmu Idiot Puff#5316
+
+Thank you for playing <3 you're all valid as fuck.

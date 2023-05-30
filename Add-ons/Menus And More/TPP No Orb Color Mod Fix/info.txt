@@ -1,0 +1,3 @@
+This changes the color of the Star Bit texture a solid yellow color instead of the gray used in the default pack made for use with the Random Orb Colors Mod.
+
+This is recommended for use if you do not have a modded client and/or are unable to install mods.

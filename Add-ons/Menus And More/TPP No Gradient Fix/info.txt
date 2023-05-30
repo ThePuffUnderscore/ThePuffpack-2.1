@@ -1,0 +1,3 @@
+This is a single-texture fix to fix the biggest and most annoying bug caused when not using the Performance/Gradient Fix. It will not make the gradients work, but it makes the large menu background displayed on profiles and in level info a solid color to fix the eyesoar caused by the texture being stretched but gradients being broken.
+
+It's highly recommended that you use the Performance/Gradient Fix for the best experience, but if you straight up can't, this should make the pack a little more tolerable.
