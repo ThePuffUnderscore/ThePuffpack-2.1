@@ -3,7 +3,7 @@
 # Installation 
 Using TextureLdr is highly recommended as it is the simplest way to add or remove addons. Performance Fix and RandomOrbColors are not required but recommended for the best experience.
 
-## Base Resource Pack
+## Base Texture Pack
 This will install the base texture pack. You must do this before installing add-ons. Performance/Gradient Fix and RandomOrbColors installation is recommended after this as well.
 
 ### TextureLdr
