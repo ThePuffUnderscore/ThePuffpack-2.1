@@ -1,6 +1,7 @@
 ![Pack Logo](https://raw.githubusercontent.com/ThePuffUnderscore/ThePuffpack-2.1/main/logo.png)
 
 # Installation 
+Watch the video guide here: https://www.youtube.com/watch?v=I66TBukyrVQ
 Using TextureLdr is highly recommended as it is the simplest way to add or remove addons. Performance Fix and RandomOrbColors are not required but recommended for the best experience.
 
 ## Base Texture Pack
@@ -56,6 +57,6 @@ As of right now, you can currently use 1 Backgrounds add-on, 1 Icons add-on, 1 M
 
 
 # Support
-For support in installing the texture pack, feel free to reach out to me directly on Discord at Idiot Puff#5316. Feel free to message me with add-on requests, add-on submissions, or pack suggestions as well. For feedback, please leave a comment on the release/download video here: [doesnt exist]
+For support in installing the texture pack, feel free to reach out to me directly on Discord at Idiot Puff#5316. Feel free to message me with add-on requests, add-on submissions, or pack suggestions as well. For feedback, please leave a comment on the release/download video here: [doesnt exist yet]
 
 Thanks for playing!
