@@ -2,6 +2,7 @@
 
 # Installation 
 Watch the video guide here: https://www.youtube.com/watch?v=I66TBukyrVQ
+
 Using TextureLdr is highly recommended as it is the simplest way to add or remove addons. Performance Fix and RandomOrbColors are not required but recommended for the best experience.
 
 ## Base Texture Pack
